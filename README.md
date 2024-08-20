@@ -8,7 +8,7 @@ Beyond my academic achievements, I bring hands-on experience in scripting and pr
 
 Feel free to explore my projects below and connect with me for opportunities to collaborate or discuss potential roles.
 - email: faridghr.cs@gmail.com
-- linkedin: linkedin.com/in/farid-ghorbanii/
+- linkedin: [linkedin.com/in/farid-ghorbanii/](https://www.linkedin.com/in/farid-ghorbanii/)
 
 ### Data Science Projects
 - **[FraudDetectivePy](https://github.com/Faridghr/FraudDetectivePy)**: The goal of this project is twofold: first, to understand how an imbalanced dataset can impact the analysis and results of credit card fraud detection; and second, to evaluate the effectiveness of different classification models and techniques aimed at enhancing the accuracy and reliability of fraud detection systems.
