@@ -4,7 +4,7 @@ I'm an MSIS student at Northeastern University with a passion for solving comple
 
 Beyond my academic achievements, I bring hands-on experience in scripting and programming languages such as C++, Java, and Python, as well as web development technologies including JavaScript and React, with a focus on areas like Machine Learning, Data Mining, Web Scraping, Software Testing, and Software Development. I've applied these skills during two years as a Junior Data Scientist and a Quality Assurance Internship.
 
-- View my **[Resume]()**
+- View my **[Resume](https://faridghr.github.io/portfolio/)**
 
 Feel free to explore my projects below and connect with me for opportunities to collaborate or discuss potential roles.
 - email: faridghr.cs@gmail.com
