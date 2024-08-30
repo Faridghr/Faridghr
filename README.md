@@ -53,5 +53,6 @@ Feel free to explore my projects below and connect with me for opportunities to 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white)
 
 
