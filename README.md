@@ -16,6 +16,10 @@ Feel free to explore my projects below and connect with me for opportunities to 
 - **[Data Mining  HorseColic](https://github.com/Faridghr/horse-survival-data-mining)**: Using data mining techniques, including data preprocessing, feature selection, model training, and evaluation, the project seeks to uncover patterns and relationships within the dataset to improve prediction accuracy.
 - **[WirelessChurnPrediction](https://github.com/Faridghr/WirelessChurnPrediction)**: This project aims to predict wireless account churn and identify key features driving churn. It is a collaborative effort between data scientists to develop a machine learning model that can help maintain and grow the revenue generating base by taking proactive measures to retain customers.
 
+### Visualization Projects
+- **[Sales Performance](https://github.com/Faridghr/Sales-Performance)**: Two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers.
+- **[Airbnb Market Insights](https://github.com/Faridghr/Airbnb-Market-Insights)**: Tableau visualizations and data analytics project using Airbnb listings data to identify key market trends, optimal investment locations, and strategies for maximizing rental income.
+
 ### Software Development Projects
 - **[DesignPatterns-RestaurantOrdering](https://github.com/Faridghr/DesignPatterns-RestaurantOrdering)**: This project is a practical exploration of design patterns, applied to a restaurant ordering system. It demonstrates how design patterns can be used to solve real-world software design challenges, resulting in a system that is flexible, scalable, and maintainable. The project utilizes multiple design patterns, including Singleton, Factory, Builder, Strategy, Composite, Adapter, Decorator, and Observer, to create a robust and extensible solution.
 - **[BookShare Hub](https://github.com/Faridghr/BookShare-Hub)**: BookShare Hub is a Java Swing-based application designed to create a community-driven platform for book sharing. It allows users to lend and borrow books from each other, promoting a culture of literature sharing.
