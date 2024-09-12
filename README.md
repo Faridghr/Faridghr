@@ -18,7 +18,7 @@ Feel free to explore my projects below and connect with me for opportunities to 
 
 ### Visualization Projects
 - **[Sales Performance](https://github.com/Faridghr/Sales-Performance)**: Two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers.
-- **[Netflix Infographic](https://github.com/Faridghr/Netflix-Infographic)**:A dynamic data visualization project that explores Netflix movies across various dimensions such as country filmed, release date, genre, ratings, frequent cast members, and directors.
+- **[Netflix Infographic](https://github.com/Faridghr/Netflix-Infographic)**: A dynamic data visualization project that explores Netflix movies across various dimensions such as country filmed, release date, genre, ratings, frequent cast members, and directors.
 - **[Airbnb Market Insights](https://github.com/Faridghr/Airbnb-Market-Insights)**: Tableau visualizations and data analytics project using Airbnb listings data to identify key market trends, optimal investment locations, and strategies for maximizing rental income.
 
 ### Software Development Projects
