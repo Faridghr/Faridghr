@@ -17,6 +17,7 @@ Feel free to explore my projects below and connect with me for opportunities to 
 - **[WirelessChurnPrediction](https://github.com/Faridghr/WirelessChurnPrediction)**: This project aims to predict wireless account churn and identify key features driving churn. It is a collaborative effort between data scientists to develop a machine learning model that can help maintain and grow the revenue generating base by taking proactive measures to retain customers.
 
 ### Visualization Projects
+- **[Human Resources Analytics](https://github.com/Faridghr/HumanResources-Analytics)**: HR Dashboard Project using Tableau to visualize key HR metrics, demographics, and salary insights. The project simulates real-world HR data analysis, providing high-level overviews and detailed employee records for better decision-making.
 - **[Sales Performance](https://github.com/Faridghr/Sales-Performance)**: Two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers.
 - **[Netflix Infographic](https://github.com/Faridghr/Netflix-Infographic)**: A dynamic data visualization project that explores Netflix movies across various dimensions such as country filmed, release date, genre, ratings, frequent cast members, and directors.
 - **[Airbnb Market Insights](https://github.com/Faridghr/Airbnb-Market-Insights)**: Tableau visualizations and data analytics project using Airbnb listings data to identify key market trends, optimal investment locations, and strategies for maximizing rental income.
