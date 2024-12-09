@@ -12,6 +12,27 @@ Feel free to explore my projects below and connect with me for opportunities to 
 
 ---
 
+### **[ResuMatch.AI](https://github.com/Faridghr/ResuMatch.AI)**  
+💼 **Your AI-Powered Job Application Assistant**  
+
+🚧 **Currently Under Development** 🚧  
+ResuMatch.AI is an innovative platform I am currently leading and developing to simplify and enhance the hiring process using **AI**, **web scraping**, and a robust **microservices architecture**.  
+
+#### **Core Features**  
+- **Personalized Resumes**: AI-driven tailoring to specific job descriptions with **OpenAI GPT models**.  
+- **Job Aggregation**: Continuously updated job postings via **Python-based web scraping** from Indeed.  
+- **Secure Microservices Communication**: Token-based authentication for seamless and secure operations.  
+- **User-Friendly Interface**: Dynamic job search and application workflows built with **Express.js and EJS templates**.  
+
+#### **Key Benefits**  
+- Streamlined job search process.  
+- AI-optimized resumes for improved compatibility.  
+- Scalable, secure architecture to meet diverse user needs.  
+
+Stay tuned for updates as the project evolves to empower job seekers with advanced tools for their career journeys.  
+
+---
+
 ### [CFSO Client Registration Automation](https://github.com/Faridghr/Client-Registration-Automation) 
 🚀 **Streamlining non-profit workflows with AI and automation!**  
 
