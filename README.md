@@ -1,14 +1,22 @@
-## Hi there, I'm Farid Ghorbani 👋
+# Hi there, I'm Farid Ghorbani 👋  
 
-I'm an MSIS student at Northeastern University with a passion for solving complex problems. My problem-solving and critical thinking skills were developed through the Iranian National Olympiad in Information, where I ranked among the top 70 from 11 thousand participants. 
+**End-to-End Data Scientist and Software Engineer** with a passion for solving complex problems and building impactful solutions. My critical thinking and problem-solving abilities were honed through the **Iranian National Olympiad in Information**, where I ranked among the **top 70 out of 11,000 participants**. I hold a **Master's in Information Systems (MSIS) from Northeastern University** and a **Bachelor's in Software Engineering (BSSE)**.
 
-Beyond my academic achievements, I bring hands-on experience in scripting and programming languages such as C++, Java, and Python, as well as web development technologies including JavaScript and React, with a focus on areas like Machine Learning, Data Mining, Web Scraping, Software Testing, and Software Development. I've applied these skills during two years as a Junior Data Scientist and a Quality Assurance Internship.
+### **What I Bring to the Table**  
+- Proficient in **C++, Java, and Python**, with expertise in **Machine Learning**, **Data Mining**, **Web Scraping**, and **Software Development**.
+- Skilled in **Data Science**, with experience in analyzing complex datasets, building predictive models, and creating actionable insights to drive decision-making.  
+- Experienced in web development technologies like **JavaScript** and **React**, creating dynamic and scalable applications.  
+- Years of hands-on experience, including roles as a **Junior Data Scientist** and a **Quality Assurance Intern**.  
 
-- View my **[Resume](https://faridghr.github.io/portfolio/)**
+### **Current Focus**  
+I'm currently working on **ResuMatch.AI**, an innovative platform that uses AI, web scraping, and microservices to empower job seekers with personalized resumes and real-time job postings. Check out the project below!  
 
-Feel free to explore my projects below and connect with me for opportunities to collaborate or discuss potential roles.
-- email: faridghr.cs@gmail.com
-- linkedin: [linkedin.com/in/farid-ghorbanii/](https://www.linkedin.com/in/farid-ghorbanii/)
+📄 [View my Resume](https://faridghr.github.io/portfolio/) 
+
+📫 **Email**: faridghr.cs@gmail.com  
+🔗 **LinkedIn**: [linkedin.com/in/farid-ghorbanii/](https://linkedin.com/in/farid-ghorbanii/)  
+
+Feel free to explore my projects and reach out to discuss collaborations or potential opportunities!  
 
 ---
 
