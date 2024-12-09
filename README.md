@@ -55,40 +55,72 @@ This project automates client registration for **Community Family Services of On
 ---
 
 
-### Data Science Projects
-- **[FraudDetectivePy](https://github.com/Faridghr/FraudDetectivePy)**: The goal of this project is twofold: first, to understand how an imbalanced dataset can impact the analysis and results of credit card fraud detection; and second, to evaluate the effectiveness of different classification models and techniques aimed at enhancing the accuracy and reliability of fraud detection systems.
-- **[ProductScraper](https://github.com/Faridghr/ProductScraper)**: This project scrapes product information from the Digikala e-commerce website to extract details about available laptops, such as price, model, CPU, GPU, RAM, screen size, etc. The extracted data is stored in a MySQL database using the mysql library. Additionally, the project includes a simple machine learning model built with scikit-learn for predicting laptop prices based on user input configurations.
-- **[Data Mining  HorseColic](https://github.com/Faridghr/horse-survival-data-mining)**: Using data mining techniques, including data preprocessing, feature selection, model training, and evaluation, the project seeks to uncover patterns and relationships within the dataset to improve prediction accuracy.
-- **[WirelessChurnPrediction](https://github.com/Faridghr/WirelessChurnPrediction)**: This project aims to predict wireless account churn and identify key features driving churn. It is a collaborative effort between data scientists to develop a machine learning model that can help maintain and grow the revenue generating base by taking proactive measures to retain customers.
+## Data Science Projects 📈🔍
+#### **[FraudDetectivePy](https://github.com/Faridghr/FraudDetectivePy)**:
+Tackling the challenge of **credit card fraud detection** with imbalanced datasets. This project explores the impact of data imbalance on analysis and evaluates the effectiveness of various classification models to enhance fraud detection accuracy and reliability.
+
+#### **[Data Mining  HorseColic](https://github.com/Faridghr/horse-survival-data-mining)**: 
+A **data mining** project aimed at uncovering insights and patterns in the **HorseColic dataset**. By applying techniques such as **data preprocessing**, **feature selection**, and **model training**, the project improves prediction accuracy and uncovers key relationships within the data.
+
+#### **[WirelessChurnPrediction](https://github.com/Faridghr/WirelessChurnPrediction)**: 
+Predicting **wireless account churn** to help businesses retain customers. This collaborative project identifies key churn drivers and builds a **machine learning model** to predict churn, empowering proactive customer retention strategies to support revenue growth.
+
+#### **[ProductScraper](https://github.com/Faridghr/ProductScraper)**: 
+An advanced **web scraping solution** that systematically extracts comprehensive product data from Digikala, including detailed laptop specifications, and employs a robust **machine learning** model to accurately predict laptop prices based on user-defined configurations, offering a data-driven approach to e-commerce insights.
 
 ---
 
-### Visualization Projects
-- **[Human Resources Analytics](https://github.com/Faridghr/HumanResources-Analytics)**: HR Dashboard Project using Tableau to visualize key HR metrics, demographics, and salary insights. The project simulates real-world HR data analysis, providing high-level overviews and detailed employee records for better decision-making.
-- **[Sales Performance](https://github.com/Faridghr/Sales-Performance)**: Two dashboards using tableau to help stakeholders, including sales managers and executives to analyze sales performance and customers.
-- **[Netflix Infographic](https://github.com/Faridghr/Netflix-Infographic)**: A dynamic data visualization project that explores Netflix movies across various dimensions such as country filmed, release date, genre, ratings, frequent cast members, and directors.
-- **[Airbnb Market Insights](https://github.com/Faridghr/Airbnb-Market-Insights)**: Tableau visualizations and data analytics project using Airbnb listings data to identify key market trends, optimal investment locations, and strategies for maximizing rental income.
+## Visualization Projects 📊
+#### **[Human Resources Analytics](https://github.com/Faridghr/HumanResources-Analytics)**: 
+An insightful HR dashboard built with **Tableau** that visualizes key HR metrics, employee demographics, and salary trends. This project simulates real-world HR data analysis, empowering decision-makers with actionable insights for optimizing workforce management.
+
+#### **[Sales Performance](https://github.com/Faridghr/Sales-Performance)**: 
+Two dynamic dashboards designed to help **sales managers** and **executives** dive deep into performance metrics, customer trends, and sales strategies, providing a data-driven foundation for business growth.
+
+#### **[Netflix Infographic](https://github.com/Faridghr/Netflix-Infographic)**: 
+A captivating **data visualization** project that dissects Netflix's vast movie library through multiple dimensions—country filmed, release dates, genres, ratings, and top cast and directors—offering a comprehensive view of Netflix's entertainment landscape.
+
+#### **[Airbnb Market Insights](https://github.com/Faridghr/Airbnb-Market-Insights)**: 
+An in-depth analysis of **Airbnb** listings through advanced **Tableau** visualizations, uncovering key market trends, ideal investment hotspots, and strategies to maximize rental income, turning data into profitable business insights.
 
 ---
 
-### Software Development Projects
-- **[DesignPatterns-RestaurantOrdering](https://github.com/Faridghr/DesignPatterns-RestaurantOrdering)**: This project is a practical exploration of design patterns, applied to a restaurant ordering system. It demonstrates how design patterns can be used to solve real-world software design challenges, resulting in a system that is flexible, scalable, and maintainable. The project utilizes multiple design patterns, including Singleton, Factory, Builder, Strategy, Composite, Adapter, Decorator, and Observer, to create a robust and extensible solution.
-- **[BookShare Hub](https://github.com/Faridghr/BookShare-Hub)**: BookShare Hub is a Java Swing-based application designed to create a community-driven platform for book sharing. It allows users to lend and borrow books from each other, promoting a culture of literature sharing.
+## Software Development Projects 💻
+#### **[DesignPatterns-RestaurantOrdering](https://github.com/Faridghr/DesignPatterns-RestaurantOrdering)**: 
+A **practical exploration** of design patterns applied to a **restaurant ordering system**. This project showcases how various design patterns—**Singleton**, **Factory**, **Builder**, **Strategy**, **Composite**, **Adapter**, **Decorator**, and **Observer**—can be used to tackle real-world software design challenges. The result is a flexible, scalable, and maintainable system that can evolve to meet growing business needs.
+
+#### **[BookShare Hub](https://github.com/Faridghr/BookShare-Hub)**: 
+A **Java Swing**-based application that fosters a community-driven platform for **book sharing**. BookShare Hub enables users to lend and borrow books from one another, promoting a culture of literature exchange. It’s a seamless solution to bring people together around a shared passion for reading and knowledge.
 
 ---
 
-### Generative AI Projects
-- **[AutoBuddy](https://github.com/Faridghr/AutoBuddy-Car-Shopping-Chatbot)**: In this project, we aim to develop a domain-specific chatbot application that utilizes a Large Language Model (LLM) for natural language understanding and processing, combined with the efficiency and scalability of a vector database for data storage and retrieval. The application will implement the Advanced Retrieval-Augmented Generation (RAG) method to enhance the chatbot's ability to provide accurate and relevant responses by integrating retrieved information with generative AI capabilities. We also fine-tune GPT-4o-mini in this project with related data to achieve optimal performance. 
-- **[Evaluate RAG Pipeline](https://github.com/Faridghr/Evaluate-RAG-Pipeline)**: The aim of this project is to evaluate the performance of the RAG pipeline and explore methods to enhance its metrics. This project includes a Python notebook and a report file, which document the evaluation process and present an improved version of our RAG chatbot.
-- **[Simple RAG Chatbot](https://github.com/Faridghr/Simple-RAG-Chatbot)**: The goal of this project is to develop a domain-specific application that combines the strengths of a Large Language Model (LLM) with the efficiency of a vector database for data storage and retrieval. Using Retrieval-Augmented Generation (RAG) for the method and Streamlit for the front-end, the application is built with Python.
+## Generative AI Projects 🤖
+#### **[AutoBuddy](https://github.com/Faridghr/AutoBuddy-Car-Shopping-Chatbot)**: 
+A **domain-specific chatbot application** designed to assist users in car shopping, powered by **Large Language Models (LLMs)** for natural language understanding and **vector databases** for efficient data storage and retrieval. The project implements the **Advanced Retrieval-Augmented Generation (RAG)** method, enhancing the chatbot's ability to provide accurate, context-aware responses by combining generative AI capabilities with retrieved data. Additionally, the chatbot is fine-tuned with **GPT-4o-mini** to optimize performance for car shopping queries.
+
+#### **[Evaluate RAG Pipeline](https://github.com/Faridghr/Evaluate-RAG-Pipeline)**: 
+This project focuses on evaluating and improving the performance of the **RAG pipeline**. It includes a **Python notebook** and **report**, documenting the evaluation process and outlining strategies for enhancing the metrics of the RAG-based chatbot, ensuring more reliable and accurate results in real-world applications.
+
+#### **[Simple RAG Chatbot](https://github.com/Faridghr/Simple-RAG-Chatbot)**: 
+A **domain-specific application** leveraging the **RAG methodology**, combining **Large Language Models (LLMs)** and **vector databases** to deliver accurate, relevant responses. Built using **Python** and **Streamlit** for the front-end, this project showcases how Retrieval-Augmented Generation can be applied to enhance chatbot performance, providing users with personalized, context-aware interactions.
 
 ---
 
-### Python Tutorial
-- **[Image Filters](https://github.com/Faridghr/Image-Filters)**: Image Filters is a Python project that offers a collection of creative filters for image manipulation using the OpenCV library. Each filter applies a specific transformation to the input image, resulting in visually distinct outputs.
-- **[Python Pandas Tutorials](https://github.com/Faridghr/Python-Pandas-Tutorial)**: This repository contains a collection of tutorials to help you master the Pandas library, a powerful tool for data manipulation and analysis in Python.
-- **[Python Matplotlib Tutorials](https://github.com/Faridghr/Python-Matplotlib-Tutorial)**: This repository contains a collection of tutorials to help you master Matplotlib, a versatile library for creating static, animated, and interactive visualizations in Python.
-- **[Python NumPy Tutorials](https://github.com/Faridghr/Python-Numpy-Tutorial)**: This repository contains a collection of tutorials to help you master the NumPy library, a fundamental package for scientific computing and data manipulation in Python.
+## Python Tutorial 🐍
+#### **[AutoMailer](https://github.com/Faridghr/AutoMailer)**
+The **AutoMailer** application is a powerful, user-friendly tool designed to streamline the process of sending **personalized emails** to multiple recipients. It leverages **CSV files** to load recipient data and enables **personalization** of email content. The app integrates with Gmail's **SMTP server** to send emails, track progress with a **progress bar**, and handle errors, making it an efficient solution for mass emailing campaigns, newsletters, or invitations.
+
+#### **[Image Filters](https://github.com/Faridghr/Image-Filters)**: 
+A **Python project** that provides a variety of **creative image filters** using the **OpenCV library**. Each filter applies unique transformations to the input image, resulting in visually striking and artistic outputs, perfect for learning and experimenting with image processing techniques.
+
+#### **[Python Pandas Tutorials](https://github.com/Faridghr/Python-Pandas-Tutorial)**: 
+A comprehensive collection of tutorials to help you **master Pandas**, the most widely used library for **data manipulation** and **analysis** in Python. This resource will guide you through various Pandas functionalities, enabling you to efficiently manipulate, clean, and analyze data.
+
+#### **[Python Matplotlib Tutorials](https://github.com/Faridghr/Python-Matplotlib-Tutorial)**: 
+Learn how to create stunning static, animated, and interactive visualizations with **Matplotlib**. This repository provides tutorials that will teach you to use Matplotlib to craft professional-grade plots, graphs, and charts, essential for data science and analysis projects.
+
+#### **[Python NumPy Tutorials](https://github.com/Faridghr/Python-Numpy-Tutorial)**: 
+A collection of tutorials designed to help you master **NumPy**, the cornerstone of **scientific computing** and **data manipulation** in Python. This resource covers fundamental operations and advanced techniques in NumPy, enabling efficient numerical computations and data analysis.
 
 ---
 
