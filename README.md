@@ -106,7 +106,7 @@ A **domain-specific application** leveraging the **RAG methodology**, combining 
 
 ---
 
-## Python Tutorial 🐍
+## Python 🐍
 #### **[AutoMailer](https://github.com/Faridghr/AutoMailer)**
 The **AutoMailer** application is a powerful, user-friendly tool designed to streamline the process of sending **personalized emails** to multiple recipients. It leverages **CSV files** to load recipient data and enables **personalization** of email content. The app integrates with Gmail's **SMTP server** to send emails, track progress with a **progress bar**, and handle errors, making it an efficient solution for mass emailing campaigns, newsletters, or invitations.
 
