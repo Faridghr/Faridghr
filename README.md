@@ -6,7 +6,7 @@
 - Proficient in **C++, Java, and Python**, with expertise in **Machine Learning**, **Data Mining**, **Web Scraping**, and **Software Development**.
 - Skilled in **Data Science**, with experience in analyzing complex datasets, building predictive models, and creating actionable insights to drive decision-making.  
 - Experienced in web development technologies like **JavaScript** and **React**, creating dynamic and scalable applications.  
-- Years of hands-on experience, including roles as a **Junior Data Scientist** and a **Quality Assurance Intern**.  
+- Years of hands-on experience, including roles as a **Data Scientist** and a **Quality Assurance**.  
 
 ### **Current Focus**  
 I'm currently working on **ResuMatch.AI**, an innovative platform that uses AI, web scraping, and microservices to empower job seekers with personalized resumes and real-time job postings. Check out the project below!  
