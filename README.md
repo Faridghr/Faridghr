@@ -45,7 +45,7 @@ Stay tuned for updates as the project evolves to empower job seekers with advanc
 🚀 **Streamlining non-profit workflows with AI and automation!**  
 
 This project automates client registration for **Community Family Services of Ontario (CFSO)**, reducing manual effort by **70%** and enhancing efficiency using:  
-- **OCR for PR Card Verification**  
+- **OCR for Card Verification**  
 - **Automated Payment Validation**  
 - **Real-Time Notifications** powered by LLMs  
 - **Flask Backend with JotForm Integration**  
