@@ -143,7 +143,7 @@ A collection of tutorials designed to help you master **NumPy**, the cornerstone
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=Tableau&logoColor=white)
 
-<!-- ![Profile views](https://komarev.com/ghpvc/?username=faridghr&label=Profile%20views&color=0e75b6&style=flat) -->
+![Profile views](https://komarev.com/ghpvc/?username=faridghr&label=Profile%20views&color=0e75b6&style=flat)
 ![Profile views](https://komarev.com/ghpvc/?username=faridghr&label=&color=transparent&style=flat)
 
 
