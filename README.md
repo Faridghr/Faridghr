@@ -1,6 +1,6 @@
 # Hi there, I'm Farid Ghorbani 👋  
 
-**End-to-End Data Scientist and Software Engineer** with a passion for solving complex problems and building impactful solutions. My critical thinking and problem-solving abilities were honed through the **Iranian National Olympiad in Informatics**, where I ranked among the **top 70 out of 11,000 participants**. I hold a **Master's in Information Systems (MSIS) from Northeastern University** and a **Bachelor's in Software Engineering (BSSE)**.
+**End-to-End Data Scientist and Software Engineer** with a passion for solving complex problems and building impactful solutions. My critical thinking and problem-solving abilities were honed through the **Iranian National Olympiad in Informatics**, where I ranked among the **top 70 out of 18,000 participants**. I hold a **Master's in Information Systems (MSIS) from Northeastern University** and a **Bachelor's in Software Engineering (BSSE)**.
 
 ### **What I Bring to the Table**  
 - Proficient in **C++, Java, and Python**, with expertise in **Machine Learning**, **Data Mining**, **Web Scraping**, and **Software Development**.
